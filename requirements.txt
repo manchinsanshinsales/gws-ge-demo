@@ -1,0 +1,8 @@
+# Poetry を使わずに pip だけで動かしたいときはこちらを使う:
+#   pip install -r requirements.txt
+
+google-adk>=1.0.0
+google-cloud-discoveryengine>=0.13.0
+google-apps-chat>=0.2.0
+google-auth>=2.30.0
+python-dotenv>=1.0.0

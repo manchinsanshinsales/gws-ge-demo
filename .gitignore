@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.poetry/
+dist/
+build/
+poetry.lock
+# Service Account 鍵 (絶対にコミットしない!)
+*service-account*.json
+*sa-key*.json
